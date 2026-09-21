@@ -18,7 +18,7 @@ An Excel project focused on analyzing workplace equality data using formulas and
 
 **Tools:** Microsoft Excel
 
-[View Excel Project](./)
+[View Excel Project](./Excell%20task%20on%20gender%20discrimination%20in%20work%20environment.xlsx)
 
 ## Skills
 
