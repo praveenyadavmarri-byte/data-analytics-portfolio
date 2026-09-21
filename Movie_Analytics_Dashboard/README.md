@@ -1,3 +1,3 @@
 ## Dashboard Preview
 
-![Movie Analytics Dashboard](./Movie_Analytics_Dashboard.png)
+![Movie Analytics Dashboard](./Movie_analytics_dashboard.png)
