@@ -6,4 +6,4 @@ my data learning and project portfolio
 
 Power BI dashboard for analyzing movie data using interactive charts, KPIs, and slicers.
 
-[View Movie Analytics Dashboard](./Movie-Analytics-Dashboard/)
+[View Movie Analytics Dashboard](./Movie_Analytics_Dashboard/)
