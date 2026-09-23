@@ -49,5 +49,12 @@ An Excel project focused on analyzing workplace equality data using formulas and
 ## Certifications
 
 * Cisco Data Analytics Essentials
-* Deloitte Data Analytics Certification
+* Deloitte Data Analytics Certification.
+
+## Contact
+
+* **GitHub:** [Praveen's GitHub](https://github.com/praveenyadavmarri-byte)
+* **LinkedIn:** [praveen-yadav-marri](https://www.linkedin.com/in/praveen-yadav-marri/)
+* **Email:** [praveenyadavmarri@gmail.com](mailto:praveenyadavmarri@gmail.com)
+
 
