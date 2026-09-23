@@ -2,6 +2,22 @@
 
 Welcome to my data analytics learning and project portfolio.
 
+## About Me
+
+I am an aspiring Data Analyst building practical skills in data analysis and visualization.
+
+I have hands-on experience working with data and am currently developing my skills in:
+
+* Excel
+* Power BI
+* Power Query
+* SQL
+* Data Cleaning
+* Data Visualization
+
+I am building projects to strengthen my analytical skills and create a practical data analytics portfolio.
+
+
 ## Projects
 
 ### 1. Movie Analytics Dashboard
