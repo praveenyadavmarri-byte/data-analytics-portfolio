@@ -36,6 +36,14 @@ An Excel project focused on analyzing workplace equality data using formulas and
 
 [View Excel Project](https://github.com/praveenyadavmarri-byte/data-analytics-portfolio/blob/main/Excell%20task%20on%20gender%20discrimination%20in%20work%20environment.xlsx)
 
+### 3. Employee Analysis – SQL Project
+
+An SQL project focused on analyzing employee data, salaries, departments, and hiring trends using MySQL.
+
+**Tools:** MySQL, SQL, MySQL Workbench
+
+[View Employee Analysis Project](https://github.com/praveenyadavmarri-byte/data-analytics-portfolio/tree/main/Employee_Analysis)
+
 ## Skills
 
 * Excel
