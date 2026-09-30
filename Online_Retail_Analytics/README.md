@@ -130,7 +130,7 @@ DAX measures were created for:
 ## Project Files
 
 - `README.md` — project documentation
-- `Online_Retail_Analytics.pbix` — Power BI dashboard
+- `Online Retail Sales & Customer Analysis.pbix` — Power BI dashboard
 - `dashboard.png` — dashboard screenshot
 
 ## Conclusion
