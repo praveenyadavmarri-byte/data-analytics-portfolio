@@ -44,6 +44,14 @@ An SQL project focused on analyzing employee data, salaries, departments, and hi
 
 [View Employee Analysis Project](https://github.com/praveenyadavmarri-byte/data-analytics-portfolio/tree/main/Employee_Analysis)
 
+### 4. Online Retail Sales & Customer Analytics
+
+An end-to-end data analytics project analyzing online retail transactions using SQL and Power BI. The project covers data cleaning, sales analysis, customer analysis, product performance, country-level analysis, returns, and time-based revenue analysis.
+
+**Tools:** MySQL, Power BI, Power Query, DAX
+
+[View Online Retail Project](./Online_Retail_Analytics/)
+
 ## Skills
 
 * Excel
